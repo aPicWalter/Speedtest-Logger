@@ -1,0 +1,10 @@
+O;   3313  suec//dacor GmbH               Coburg               Germany    
+X;   4578  SWW Wunsiedel GmbH             Wunsiedel            Germany    
+O;  18549  Bisping & Bisping GmbH & Co. KG Lauf a.d. Pegnitz    Germany    
+O;  56365  Hosting-OS.de                  Nurnberg             Germany    
+O;  20478  Contabo                        Nuremberg            Germany    
+X;   8099  GoHost Server                  Nuremberg            Germany    
+O;  15667  noris network AG               Nuremberg            Germany    
+O;  56284  SoccerLAB - QuESD              Nuremberg            Germany    
+O;  60469  netcup GmbH                    Nuremberg            Germany    
+O;  60677  Advin Servers                  Nuremberg            Germany    
